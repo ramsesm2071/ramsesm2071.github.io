@@ -15,15 +15,11 @@ In this course we learned how to use colors to make different things like gradie
 
 [My Group's Project.](https://app.pickcode.io/project/cm3ndtjm795d047v5s1701a8f)
 
-Inline `code` snippet
+(Example of the code to making a linear gradient)
 
 ```language
-multi
-line
-code
-snippet
+background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
 ```
-
 ---
 
 NOTE: to see the raw code for this file, click [here](https://raw.githubusercontent.com/hstatsep/other/main/writeups/template.md)
