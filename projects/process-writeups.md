@@ -13,16 +13,7 @@ In this course we learned how to use colors to make different things like gradie
 * Adjusting the hue of a color. Ex: blue	hsl(240, 100%, 50%)
 * Learning how to create a background gradient. Ex:  background: linear-gradient(gradient_direction, color 1, color 2, color 3, ...);
 
-### Section
-
-Text
-
-Text
-
-* List
-* List
-
-[text](URL)
+[My Group's Project.](https://app.pickcode.io/project/cm3ndtjm795d047v5s1701a8f)
 
 Inline `code` snippet
 
