@@ -16,3 +16,4 @@ In this course we learned how to use colors to make different things like gradie
 ```
 background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
 ```
+ 
