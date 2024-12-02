@@ -18,7 +18,9 @@ In this course we learned how to use colors to make different things like gradie
 (Example of the code to making a linear gradient)
 
 ```language
+body {
 background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
+}
 ```
 ---
 
