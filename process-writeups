@@ -12,3 +12,7 @@ In this course we learned how to use colors to make different things like gradie
 * Using teritary colors Ex: orange(#FF7F00) (Teritary Colors is combining a primary color with a secondary color, in this example we use red and yellow.)
 * Adjusting the hue of a color. Ex: blue	hsl(240, 100%, 50%)
 * Learning how to create a background gradient. Ex:  background: linear-gradient(gradient_direction, color 1, color 2, color 3, ...);
+(Example of code that creates a linear gradient)
+```
+background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
+```
