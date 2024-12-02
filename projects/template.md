@@ -1,9 +1,11 @@
 # Process Writeup
 
-## Name: 
-## Course: 
-## Period: 
-## Concept: 
+## Name: Ramses M
+## Course: Colors
+## Period: 8
+## Concept: Learning how to use colors 
+
+## Context
 In this course we learned how to use colors to make different things like gradients, linear gradients, and repeating gradients. We also learned things like what complementary colors were. Some concepts I learned while doing this course are:
 * Using hex code. Ex:  red (#FF0000) blue (#0000FF)
 * Using teritary colors Ex: orange(#FF7F00) (Teritary Colors is combining a primary color with a secondary color, in this example we use red and yellow.)
