@@ -24,25 +24,25 @@ background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
 ```
 
 Other groups showed us other things like:
-## (Basics)
+## Basics
 * text-align: justify; spaces the text so that each line has equal width
 * text-align: center; centers the text
 * text-align: right; right-aligns the text
 * text-align: left; (The Default) left-aligns the text
 
-## (Positioning)
+## Positioning
 * Position relative;
 * Position absolute;
 * Position fixed;
 * Float left;
 * Float right;
 
-## (Geometry)
+## Geometry
 * SkewY `transform: skewX (-15deg)`
 * SkewX `transform: skewY (-15deg)`
 * Scale  `transform: scale (1) or (2) or (3) and so on`
   
-## (Animation)
+## Animation
 * animation-name: 
 * animation-duration:
 * img:hover
