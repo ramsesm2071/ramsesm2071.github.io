@@ -45,8 +45,8 @@ Other groups showed us other things like:
 ## Animation
 * animation-name: 
 * animation-duration:
-* img:hover
-* button:hover
+* img: hover
+* button: hover
 ---
 
 ## Challenges
