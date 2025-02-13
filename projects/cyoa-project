@@ -44,10 +44,11 @@
     <div class="container-fluid bg-1">
         <div class="container">
 
-            <h1 class="margin text-center">Example Project</h1>
-            <p>Text about the project</p>
-            <p>More text about the project.</p>
-            <a href="#">Link about the project</a><br>
+            <h1 class="margin text-center">CYOA Project</h1>
+            <p>I worked with 2 others to create a choose your own adventure project, using IDE.</p>
+            <p>It was very enjoyable because we had a lot of freedom on what we wanted to do, so the only limiter was ourselves and overall, i'm very proud of the work I did and how my part of the story turned out.</p>
+            <p>If possible I would like to do another project like this and work with others on a different type of CYOA story because I did a murder mystery CYOA and want to try a different one. Working on the CYOA was always entertaining and when making the adventure was, I often found myself being so engrossed in it, I would lose track of time.
+            <a href="https://github.com/muhammadn8449/murder-mystery">The CYOA project I worked on!</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a><br>-->
